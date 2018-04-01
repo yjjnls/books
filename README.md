@@ -1,1 +1,1 @@
-![img](./imgs/flash.gif)
+[<img src="https://github.com/yjjnls/books/blob/master/imgs/flash.gif" align="right-" width="150">](https://github.com/yjjnls/awesome-blockchain)
