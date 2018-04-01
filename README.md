@@ -1,1 +1,1 @@
-[<img src="https://github.com/yjjnls/books/blob/master/imgs/flash.gif" align="right-" width="800">](https://github.com/yjjnls/awesome-blockchain)
+[<img src="https://github.com/yjjnls/books/blob/master/imgs/flash.gif" align="right-" width="1000">](https://github.com/yjjnls/awesome-blockchain)
